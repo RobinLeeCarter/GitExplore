@@ -1,0 +1,9 @@
+name: basic
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python
+  - pip
+  - pipdeptree
+
