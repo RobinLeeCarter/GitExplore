@@ -6,6 +6,7 @@
 # 10.15
 # 10.2
 # 11.1
+# 11.2
 # zappa
 # findus
 # pancakes
